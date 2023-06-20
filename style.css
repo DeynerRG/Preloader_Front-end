@@ -29,7 +29,7 @@ body{
     height: 1rem;
     background-color: #6366F1;
     border-radius: 50%;
-    animation: grow 2s infinite ease-out;
+    animation: grow 2s infinite alternate-reverse ease-in-out;
 }
 
 @keyframes grow {
